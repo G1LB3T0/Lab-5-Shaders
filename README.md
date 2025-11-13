@@ -42,12 +42,6 @@ Renderer 3D en Rust con múltiples modelos y shader metálico avanzado.
 - P - Guardar PNG
 - ESC - Salir
 
-## Generación de Esferas
-
-```bash
-python3 generate_spheres.py
-```
-
 ## Ejecución
 
 ```bash

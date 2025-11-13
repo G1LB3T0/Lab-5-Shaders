@@ -1,0 +1,12 @@
+[package]
+name = "modelo_nave_rs"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+image = "0.25.8"
+minifb = "0.28.0"
+nalgebra-glm = "0.20.0"
+tobj = "4.0.3"
+
+

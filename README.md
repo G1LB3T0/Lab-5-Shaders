@@ -1,4 +1,4 @@
-# Lab 4 - Sistema Solar Shader
+# Lab 5- Sistema Solar Shader
 
 Renderer 3D en Rust con múltiples modelos y shader metálico avanzado.
 
